@@ -10,7 +10,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: dbsystel/postgresql-partman
+  IMAGE_NAME: srt/postgresql-partman
 
 jobs:
   build:
